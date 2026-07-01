@@ -15,7 +15,7 @@
 <br/>
 
 <!-- DEMO LINK -->
-### 🌐 [Live Demo →](https://customer-ltv-predictor.streamlit.app/) &nbsp;&nbsp; 📓 [View Notebook →](#) &nbsp;&nbsp; 📊 [See Report →](#)
+### 🌐 [Live Demo →]((https://customer--ltv--prediction.streamlit.app/)) &nbsp;&nbsp; 📓 [View Notebook →](#) &nbsp;&nbsp; 📊 [See Report →](#)
 
 <br/>
 
@@ -115,12 +115,12 @@ Given a customer's past behaviour:
 ├── 📓 Customer_LTV_Prediction.ipynb   ← Full 10-step ML notebook
 ├── 🌐 app.py                          ← Streamlit web app 
 ├── 📊 LTV_Excel_Report.xlsx           ← 4-sheet Excel report
-├── 📽️  LTV_Presentation.pptx          ← 8-slide portfolio deck
-├── 📁 outputs 
-           └──  Final_LTV_Predictions.csv        ← Output: customer LTV + segments
-           └──  Segment_Summary.csv              ← Output: segment-level aggregations
-           └──  ltv_model.pkl                    ← Trained XGBoost model
-├── 📋 LTV Project Report.pdf                              
+├── 📽️ LTV_Presentation.pptx           ← 8-slide portfolio deck
+├── 📁 outputs                         ← screenshots 
+├── 📊 Final_LTV_Predictions.csv       ← Output: customer LTV + segments
+├── 📁 Segment_Summary.csv             ← Output: segment-level aggregations
+├── 📓 ltv_model.pkl                   ← Trained XGBoost model
+├── 📋 LTV Project Report.pdf          ← Project report                  
 ├── 📋 requirements.txt                ← Python dependencies
 └── 📄 README.md                       ← You are here
 ```
